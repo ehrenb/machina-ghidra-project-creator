@@ -1,1 +1,1 @@
-# machina-ghidra-project-creator
+# ghidra-project-creator
